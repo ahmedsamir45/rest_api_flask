@@ -1,7 +1,3 @@
-Here’s a clean and well-structured **documentation** of your Flask RESTful API using **Flask-RESTful** and **SQLAlchemy**, written in a format suitable for developers:
-
----
-
 # 📽️ Video API Documentation
 
 ## Overview
@@ -141,6 +137,4 @@ from your_script_name import db
 db.create_all()
 ```
 
----
 
-If you'd like, I can help convert this into a Swagger/OpenAPI spec or generate a Markdown/HTML file out of it. Want that?
